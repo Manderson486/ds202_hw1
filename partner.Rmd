@@ -1,0 +1,17 @@
+---
+title: "partner"
+date: "2/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Name: Marcella Anderson
+
+Github username: Manderson486
+
+Her first commit included hw1.Rmd and hw1.html and the id for the first commit is: commit ae20a5cbd3207f835f6064d0e54295a0aeeef413
+
+An error I encountered was the path to adding a collaborator. The path was Settings - Manage Access - Invite a collaborator - Invite.
